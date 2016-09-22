@@ -1,0 +1,18 @@
+<html>
+<head>
+    <title>
+        my third online html!
+    </title>
+</head>
+<body>
+    <a href='/'>
+        home!
+    </a>
+    <h1>
+        my third heading
+    </h1>
+    <p>
+        my third paragraph
+    </p>
+</body>
+</html>
