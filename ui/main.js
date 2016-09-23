@@ -2,12 +2,12 @@ console.log('Loaded!');
 console.log('by hrishi!');
 var img= document.getElementById('image');
 var marginleft='0';
-function moveright()
+function moveRight()
 {
-    marginleft = marginleft + 1 ;
-    img.style.marginleft = marginleft + 'px';
+    marginLeft = marginLeft + 1 ;
+    img.style.marginLeft = marginLeft + 'px';
 }
 img.onclick = function()
 {
-    var interval = setinterval(moveright, 50);
+    var interval = setinterval(moveRight, 50);
 };
